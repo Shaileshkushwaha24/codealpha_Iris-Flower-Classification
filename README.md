@@ -186,7 +186,7 @@ python predict.py
 
 ---
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
 **Your Name**
 
@@ -194,6 +194,6 @@ CodeAlpha Data Science Intern
 
 ---
 
-## 📜 License
+📜 License
 
 This project is developed for educational purposes as part of the CodeAlpha Data Science Internship.
